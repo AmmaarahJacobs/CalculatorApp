@@ -1,2 +1,2 @@
 # CalculatorApp
-This is a simple calculator app
+This is a simple responsive calculator app
